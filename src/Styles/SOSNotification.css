@@ -1,0 +1,18 @@
+.textarea {
+    display: flex;
+    width: 300px;
+    height: 75px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.micro {
+    display: flex;
+    margin-left: 385px;
+    margin-top: -40px;
+}
+
+.send {
+    display: flex;
+    margin-left: 230px;
+}
